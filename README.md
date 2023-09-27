@@ -2,7 +2,11 @@
 Jupyter Notebooks für DHBW Python Tutorium
 
 ## Termine
-**11.10.2023 - 16:45** (Python Einführung + Entwicklungsumgebung)
+**16:45 - 11.10.2023** 
+- Python Einführung, Markdown und Entwicklungsumgebung
+- Notebook: 0-first_steps.ipynb
+
+<br>
 
 2. Woche: tbd.
 
