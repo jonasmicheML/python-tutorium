@@ -4,10 +4,10 @@ Authors: Mario Koepcke (mario.koepcke@web.de) and Jonas Michel (jonas.kl@icloud.
 
 ## Schedule
 **16:45 - 11.10.2023** 
-- Python introduction, set up Markdown and development environment
-- useful websites, Git, Jupyter, ChatGPT, CoPilot
-- Basics: Variables, Data types
-- Notebook: 0-first_steps.ipynb
+- Markdown and set up the development environment
+- useful websites, git, JupyterNotebooks, ChatGPT, CoPilot
+- Python basics: variables, data structures
+- Notebook: `0-first_steps.ipynb` and `1-basics.ipynb`
 <br>
 <br>
 
@@ -58,3 +58,14 @@ Authors: Mario Koepcke (mario.koepcke@web.de) and Jonas Michel (jonas.kl@icloud.
 
 **Exam weeks (to be decided)**
 - Review Questions, Exercises, Your topics
+
+
+## Credits
+The entire tutorial was created by Mario Koepcke and Jonas Michel. Based on teaching materials, questions from students, and personal experiences.
+
+Used websites for examples and exercises:
+- [Python: w3-School](https://www.w3schools.com/python/)
+- [Python Cheat Sheet](https://www.pythoncheatsheet.org/)
+- [Python: Real Python](https://realpython.com/)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/python-programming-language/)
+
