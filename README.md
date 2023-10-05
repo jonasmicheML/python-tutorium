@@ -1,31 +1,47 @@
 # python-tutorium
 Jupyter Notebooks für DHBW Python Tutorium
+Authors: Mario Koepcke (mario.koepcke@web.de) and Jonas Michel (jonas.kl@icloud.com)
 
 ## Termine
 **16:45 - 11.10.2023** 
-- Python Einführung, Markdown und Entwicklungsumgebung
+- Python Einführung, Markdown und Entwicklungsumgebung aufsetzten
+- hilfreiche Websites, Git, Jupyter, ChatGPT, CoPilot
+- Basics: Variablen, Datentypen
 - Notebook: 0-first_steps.ipynb
 
-<br>
+**16:45 - 17.10.2023** 
+- Listen, Dictionaries
+- Konsolen Input and Output
 
-2. Woche: tbd.
+**16:45 - 24.10.2023** 
+- if else else if
+- schleifen
 
-3. Woche: tbd.
+**16:45 - 02.11.2023** 
+- Funktionen
 
-4. Woche: tbd.
+**16:45 - 07.11.2023** 
+- File formats: reading and writing
+- relative and absolute file paths
 
-5. Woche: tbd.
+**16:45 - 16.11.2023** 
+- Dataframes
+- Pandas Basics: Group, Aggregation, Merge; Filter, Query
 
-6. Woche: tbd.
+**optinal: 21.11.2023 (online)**
+- Visualizations: Plotly, Mathplotlib
+- Machine Learning Libraries: Sk-learn, PyTorch 
 
-7. Woche: tbd.
+**16:45 30.11.2023**
+- Objekte, Klassen Konstruktoren
 
-8. Woche: tbd.
+**16:45 07.12.2023**
+- Objekte, Klassen Konstruktoren
 
-9. Woche: tbd.
+**Klausurenwochen - nach absprache**
+- Wiederholung Fragebn, Übungen, eure themen
 
-10. Woche: tbd.
 
-11. Woche: tbd.
 
-12. Woche: tbd.
+
+
