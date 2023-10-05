@@ -1,47 +1,60 @@
-# python-tutorium
-Jupyter Notebooks für DHBW Python Tutorium
+# Python Tutorial
+Jupyter Notebooks for DHBW Python Tutorial
 Authors: Mario Koepcke (mario.koepcke@web.de) and Jonas Michel (jonas.kl@icloud.com)
 
-## Termine
+## Schedule
 **16:45 - 11.10.2023** 
-- Python Einführung, Markdown und Entwicklungsumgebung aufsetzten
-- hilfreiche Websites, Git, Jupyter, ChatGPT, CoPilot
-- Basics: Variablen, Datentypen
+- Python introduction, set up Markdown and development environment
+- useful websites, Git, Jupyter, ChatGPT, CoPilot
+- Basics: Variables, Data types
 - Notebook: 0-first_steps.ipynb
+<br>
+<br>
 
 **16:45 - 17.10.2023** 
-- Listen, Dictionaries
-- Konsolen Input and Output
+- Lists, Dictionaries
+- Console Input and Output
+<br>
+<br>
 
 **16:45 - 24.10.2023** 
 - if else else if
-- schleifen
+- loops
+<br>
+<br>
 
 **16:45 - 02.11.2023** 
-- Funktionen
+- Functions
+<br>
+<br>
 
 **16:45 - 07.11.2023** 
 - File formats: reading and writing
 - relative and absolute file paths
+<br>
+<br>
 
 **16:45 - 16.11.2023** 
 - Dataframes
 - Pandas Basics: Group, Aggregation, Merge; Filter, Query
+<br>
+<br>
 
-**optinal: 21.11.2023 (online)**
-- Visualizations: Plotly, Mathplotlib
-- Machine Learning Libraries: Sk-learn, PyTorch 
+**optional: 21.11.2023 (online)**
+- Visualizations: Plotly, Matplotlib
+- Machine Learning Libraries: Scikit-learn, PyTorch 
+<br>
+<br>
 
 **16:45 30.11.2023**
-- Objekte, Klassen Konstruktoren
+- Objects, Classes, Constructors
+<br>
+<br>
 
 **16:45 07.12.2023**
-- Objekte, Klassen Konstruktoren
+- Objects, Classes, Constructors
+<br>
+<br>
 
-**Klausurenwochen - nach absprache**
-- Wiederholung Fragebn, Übungen, eure themen
-
-
-
-
-
+**Exam weeks (to be decided)**
+- Review Questions, Exercises, Your topics
