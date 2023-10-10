@@ -18,12 +18,12 @@ Authors: Mario Koepcke (mario.koepcke@web.de) and Jonas Michel (jonas.kl@icloud.
 <br>
 
 **16:45 - 24.10.2023** 
-- if else else if
-- loops
+- Conditional statements: if, else, elif
 <br>
 <br>
 
 **16:45 - 02.11.2023** 
+- Loops: for, while
 - Functions
 <br>
 <br>
@@ -47,17 +47,17 @@ Authors: Mario Koepcke (mario.koepcke@web.de) and Jonas Michel (jonas.kl@icloud.
 <br>
 
 **16:45 30.11.2023**
-- Objects, Classes, Constructors
+- Objects, Classes
 <br>
 <br>
 
 **16:45 07.12.2023**
-- Objects, Classes, Constructors
+- Objects, Classes
 <br>
 <br>
 
 **Exam weeks (to be decided)**
-- Review Questions, Exercises, Your topics
+- Review Questions, Exercises, exam preparation, Your topics
 
 
 ## Credits
