@@ -1,5 +1,6 @@
 # Python Tutorial
 Jupyter Notebooks for DHBW Python Tutorial
+
 Authors: Mario Koepcke (mario.koepcke@web.de) and Jonas Michel (jonas.kl@icloud.com)
 
 ## Schedule
