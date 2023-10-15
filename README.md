@@ -6,15 +6,16 @@ Authors: Mario Koepcke (mario.koepcke@web.de) and Jonas Michel (jonas.kl@icloud.
 ## Schedule
 **16:45 - 11.10.2023** 
 - Markdown and set up the development environment
-- useful websites, git, JupyterNotebooks, ChatGPT, CoPilot
-- Python basics: variables, data structures
+- Useful websites, git, JupyterNotebooks, ChatGPT, CoPilot
 - Notebook: `0-first_steps.ipynb` and `1-basics.ipynb`
 <br>
 <br>
 
 **16:45 - 17.10.2023** 
-- Lists, Dictionaries
-- Console Input and Output
+- Version control with git
+- Variables and working with different data types (int, float, string)
+- One-dimensional and Multi-Dimensional lists
+- Notebook: `0-first_steps.ipynb` and `1-basics.ipynb`
 <br>
 <br>
 
