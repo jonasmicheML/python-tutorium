@@ -11,7 +11,7 @@ Authors: Mario Koepcke (mario.koepcke@web.de) and Jonas Michel (jonas.kl@icloud.
 <br>
 <br>
 
-**16:45 - 17.10.2023** 
+**16:30 - 17.10.2023** 
 - Version control with git
 - Variables and working with different data types (int, float, string)
 - One-dimensional and Multi-Dimensional lists
@@ -19,41 +19,41 @@ Authors: Mario Koepcke (mario.koepcke@web.de) and Jonas Michel (jonas.kl@icloud.
 <br>
 <br>
 
-**16:45 - 24.10.2023** 
+**16:30 - 24.10.2023** 
 - Conditional statements: if, else, elif
 <br>
 <br>
 
-**16:45 - 02.11.2023** 
+**16:30 - 02.11.2023** 
 - Loops: for, while
 - Functions
 <br>
 <br>
 
-**16:45 - 07.11.2023** 
+**16:30 - 07.11.2023** 
 - File formats: reading and writing
 - relative and absolute file paths
 <br>
 <br>
 
-**16:45 - 16.11.2023** 
+**16:30 - 16.11.2023** 
 - Dataframes
 - Pandas Basics: Group, Aggregation, Merge; Filter, Query
 <br>
 <br>
 
-**optional: 21.11.2023 (online)**
+**tbd: 21.11.2023 (online)**
 - Visualizations: Plotly, Matplotlib
 - Machine Learning Libraries: Scikit-learn, PyTorch 
 <br>
 <br>
 
-**16:45 30.11.2023**
+**16:30 30.11.2023**
 - Objects, Classes
 <br>
 <br>
 
-**16:45 07.12.2023**
+**16:30 07.12.2023**
 - Objects, Classes
 <br>
 <br>
