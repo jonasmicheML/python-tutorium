@@ -20,7 +20,9 @@ Authors: Mario Koepcke (mario.koepcke@web.de) and Jonas Michel (jonas.kl@icloud.
 <br>
 
 **16:30 - 24.10.2023** 
+- multi-dimensional lists (repetition)
 - Conditional statements: if, else, elif
+- Notebook: `2-advanced_data_types.ipynb` and `3-conditional_statements.ipynb`
 <br>
 <br>
 
